@@ -28,6 +28,6 @@ Here are some ideas to get you started:
 
 Page Visitors💖
 
-![Visitor Count](https://profile-counter.glitch.me/KhaccThienn/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/C2110h1bro/count.svg)
 
 </p>
