@@ -15,3 +15,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![avat](https://icdn.dantri.com.vn/zoom/1200_630/2022/09/04/skysports-football-erling-haaland5886475-crop-1662280708084.jpeg)
+<br>
+<br>
+<br>
+✍️Random Dev Quote
+<br>
+<br>
+<br>
+<p>&nbsp;<img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="100%" height="50%" /></p>
+<br>
+<br>
+
+Page Visitors💖
+
+![Visitor Count](https://profile-counter.glitch.me/KhaccThienn/count.svg)
+
+</p>
